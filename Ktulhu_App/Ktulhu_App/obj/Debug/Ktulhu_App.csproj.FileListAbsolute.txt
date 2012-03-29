@@ -1,0 +1,9 @@
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Ktulhu_App\Ktulhu_App\bin\Debug\Ktulhu_App.exe
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Ktulhu_App\Ktulhu_App\bin\Debug\Ktulhu_App.pdb
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Ktulhu_App\Ktulhu_App\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Ktulhu_App\Ktulhu_App\obj\Debug\Ktulhu_App.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Ktulhu_App\Ktulhu_App\obj\Debug\Ktulhu_App.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Ktulhu_App\Ktulhu_App\obj\Debug\Ktulhu_App.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Ktulhu_App\Ktulhu_App\obj\Debug\Ktulhu_App.exe
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Ktulhu_App\Ktulhu_App\obj\Debug\Ktulhu_App.pdb
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Ktulhu_App\Ktulhu_App\obj\Debug\Ktulhu_App.Form2.resources
