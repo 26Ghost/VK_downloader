@@ -15,7 +15,7 @@ namespace Ktulhu_App
 {
     public partial class Form1 : Form
     {
-        public int app_id = 2738973;
+        public int app_id = /*не скажу :Р */;
         public int count_user = 0;
         public int count_search = 0;
         //public List<string> inf = new List<string>();
